@@ -1,0 +1,33 @@
+C:\Users\PUMPKIN\Desktop\Logistics Menage System (1) - Copy\Logistics Menage System\Logistics Menage System\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\Logistic Management.exe.config
+C:\Users\PUMPKIN\Desktop\Logistics Menage System (1) - Copy\Logistics Menage System\Logistics Menage System\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\Logistic Management.exe
+C:\Users\PUMPKIN\Desktop\Logistics Menage System (1) - Copy\Logistics Menage System\Logistics Menage System\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\Logistic Management.pdb
+C:\Users\PUMPKIN\Desktop\Logistics Menage System (1) - Copy\Logistics Menage System\Logistics Menage System\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.CustomerForm.resources
+C:\Users\PUMPKIN\Desktop\Logistics Menage System (1) - Copy\Logistics Menage System\Logistics Menage System\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.MainBackoffice.resources
+C:\Users\PUMPKIN\Desktop\Logistics Menage System (1) - Copy\Logistics Menage System\Logistics Menage System\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.MainPage.resources
+C:\Users\PUMPKIN\Desktop\Logistics Menage System (1) - Copy\Logistics Menage System\Logistics Menage System\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.OperationForm.resources
+C:\Users\PUMPKIN\Desktop\Logistics Menage System (1) - Copy\Logistics Menage System\Logistics Menage System\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ProductForm.resources
+C:\Users\PUMPKIN\Desktop\Logistics Menage System (1) - Copy\Logistics Menage System\Logistics Menage System\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+C:\Users\PUMPKIN\Desktop\Logistics Menage System (1) - Copy\Logistics Menage System\Logistics Menage System\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.DriverForm.resources
+C:\Users\PUMPKIN\Desktop\Logistics Menage System (1) - Copy\Logistics Menage System\Logistics Menage System\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.TruckForm.resources
+C:\Users\PUMPKIN\Desktop\Logistics Menage System (1) - Copy\Logistics Menage System\Logistics Menage System\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.TypeForm.resources
+C:\Users\PUMPKIN\Desktop\Logistics Menage System (1) - Copy\Logistics Menage System\Logistics Menage System\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\LogisticManagement.csproj.GenerateResource.Cache
+C:\Users\PUMPKIN\Desktop\Logistics Menage System (1) - Copy\Logistics Menage System\Logistics Menage System\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\Logistic Management.exe.licenses
+C:\Users\PUMPKIN\Desktop\Logistics Menage System (1) - Copy\Logistics Menage System\Logistics Menage System\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\Logistic Management.exe
+C:\Users\PUMPKIN\Desktop\Logistics Menage System (1) - Copy\Logistics Menage System\Logistics Menage System\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\Logistic Management.pdb
+C:\Users\PUMPKIN\Desktop\MainThesis\LogisticManagement\LogisticManagement\LogisticManagement\WindowsFormsApplication11\bin\Debug\Logistic Management.exe.config
+C:\Users\PUMPKIN\Desktop\MainThesis\LogisticManagement\LogisticManagement\LogisticManagement\WindowsFormsApplication11\obj\Debug\Logistic Management.exe
+C:\Users\PUMPKIN\Desktop\MainThesis\LogisticManagement\LogisticManagement\LogisticManagement\WindowsFormsApplication11\obj\Debug\Logistic Management.pdb
+C:\Users\PUMPKIN\Desktop\MainThesis\LogisticManagement\LogisticManagement\LogisticManagement\WindowsFormsApplication11\bin\Debug\Logistic Management.exe
+C:\Users\PUMPKIN\Desktop\MainThesis\LogisticManagement\LogisticManagement\LogisticManagement\WindowsFormsApplication11\bin\Debug\Logistic Management.pdb
+C:\Users\PUMPKIN\Desktop\MainThesis\LogisticManagement\LogisticManagement\LogisticManagement\WindowsFormsApplication11\obj\Debug\LogisticManagement.csprojResolveAssemblyReference.cache
+C:\Users\PUMPKIN\Desktop\MainThesis\LogisticManagement\LogisticManagement\LogisticManagement\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.CustomerForm.resources
+C:\Users\PUMPKIN\Desktop\MainThesis\LogisticManagement\LogisticManagement\LogisticManagement\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.MainBackoffice.resources
+C:\Users\PUMPKIN\Desktop\MainThesis\LogisticManagement\LogisticManagement\LogisticManagement\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.MainPage.resources
+C:\Users\PUMPKIN\Desktop\MainThesis\LogisticManagement\LogisticManagement\LogisticManagement\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.OperationForm.resources
+C:\Users\PUMPKIN\Desktop\MainThesis\LogisticManagement\LogisticManagement\LogisticManagement\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.ProductForm.resources
+C:\Users\PUMPKIN\Desktop\MainThesis\LogisticManagement\LogisticManagement\LogisticManagement\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+C:\Users\PUMPKIN\Desktop\MainThesis\LogisticManagement\LogisticManagement\LogisticManagement\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.DriverForm.resources
+C:\Users\PUMPKIN\Desktop\MainThesis\LogisticManagement\LogisticManagement\LogisticManagement\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.TruckForm.resources
+C:\Users\PUMPKIN\Desktop\MainThesis\LogisticManagement\LogisticManagement\LogisticManagement\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.TypeForm.resources
+C:\Users\PUMPKIN\Desktop\MainThesis\LogisticManagement\LogisticManagement\LogisticManagement\WindowsFormsApplication11\obj\Debug\LogisticManagement.csproj.GenerateResource.Cache
+C:\Users\PUMPKIN\Desktop\MainThesis\LogisticManagement\LogisticManagement\LogisticManagement\WindowsFormsApplication11\obj\Debug\Logistic Management.exe.licenses

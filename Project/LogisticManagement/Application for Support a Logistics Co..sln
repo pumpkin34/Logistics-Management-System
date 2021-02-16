@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogisticManagement", "WindowsFormsApplication11\LogisticManagement.csproj", "{F4078BDE-76A5-42B3-A715-3A6CFD926FCA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{CA842083-BCAC-45C1-B6CC-B08BAD5CA43B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4078BDE-76A5-42B3-A715-3A6CFD926FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4078BDE-76A5-42B3-A715-3A6CFD926FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4078BDE-76A5-42B3-A715-3A6CFD926FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4078BDE-76A5-42B3-A715-3A6CFD926FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA842083-BCAC-45C1-B6CC-B08BAD5CA43B}.Debug|Any CPU.ActiveCfg = Debug
+		{CA842083-BCAC-45C1-B6CC-B08BAD5CA43B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
